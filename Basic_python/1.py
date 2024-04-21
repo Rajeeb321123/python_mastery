@@ -28,10 +28,10 @@ print(name*3)
 print(name)
 
 ## Input
-# name = input("What's your name: ")
-# age = int(input("What's your age: "))
-# height = float(input("What's your height: "))
-# print("My name is " + name +" and my age is " + str(age) + " and my height is " + str(height) ) # concatenation need same data 
+name = input("What's your name: ")
+age = int(input("What's your age: "))
+height = float(input("What's your height: "))
+print("My name is " + name +" and my age is " + str(age) + " and my height is " + str(height) ) # concatenation need same data 
 
 ## Math functions
 import math
